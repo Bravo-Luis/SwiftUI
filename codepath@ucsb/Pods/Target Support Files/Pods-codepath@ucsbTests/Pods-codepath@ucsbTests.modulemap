@@ -1,0 +1,6 @@
+framework module Pods_codepath_ucsbTests {
+  umbrella header "Pods-codepath@ucsbTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
