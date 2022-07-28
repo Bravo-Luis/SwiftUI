@@ -43,11 +43,11 @@ struct contentBox: View {
                 }
             }
             .padding(.bottom, 10)
-            
             .padding()
 
             
         }
+        .padding(.trailing,25)
         .frame(minWidth: width, idealWidth: width, maxWidth: width, minHeight: nil, idealHeight: nil, maxHeight: nil, alignment: .center)
         
     }

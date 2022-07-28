@@ -56,6 +56,7 @@ struct ContentView: View {
                 .environment(\.defaultMinListRowHeight,0)
                 .navigationBarHidden(true)
                 .background(Color(.clear))
+                
                 /*
                 .overlay{
                     
